@@ -23,5 +23,5 @@ BDEPEND=""
 
 src_install() {
 	dodir /usr/share/themes/
-	./install.sh -d "${D}" || die "Install failed!"
+	./install.sh -d "${D}/usr/share/themes/" || die "Install failed!"
 }
