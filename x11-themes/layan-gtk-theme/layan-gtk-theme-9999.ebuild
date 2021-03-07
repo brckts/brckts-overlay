@@ -12,7 +12,7 @@ EGIT_REPO_URI="https://github.com/vinceliuice/Layan-gtk-theme"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64"
 
 DEPEND="
 x11-themes/gtk-engines-murrine
