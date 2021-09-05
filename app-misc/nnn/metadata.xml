@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM 'http://www.gentoo.org/dtd/metadata.dtd'>
+<pkgmetadata>
+	<maintainer type="person">
+		<email>alexis.lecervoisier@protonmail.com</email>
+		<name>Alexis Lecervoisier</name>
+	</maintainer>
+	<use>
+		<flag name="icons-in-terminal">Build with icons-in-terminal icon support.</flag>
+		<flag name="nerd-icons">Build with nerd-font icon support.</flag>
+	</use>
+</pkgmetadata>
